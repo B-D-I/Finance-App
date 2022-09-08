@@ -14,3 +14,4 @@ Incomplete:
 - Finish functions for batch api requests
 - Include multi threading for data retrieval 
 - Create database for portfolio data and include secure login
+- Create tkinter GUI  
