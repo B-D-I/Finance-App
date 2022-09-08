@@ -1,9 +1,12 @@
 from user_menu import *
 
 # TO DO:
+# stock prediction
+# portfolio optimisation
 # create sqlite database of stock portfolio -> functions to perform analysis
 # multithreading -> start a separate thead to retrieve stock data
-# unit testing
+# batch api requests
+# complete unit testing
 # security -> create secure login
 
 
