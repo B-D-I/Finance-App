@@ -5,7 +5,7 @@ CLI application to view stock data, portfolio data, and perform analysis.
 Includes:
 - Retrieve stock data, via IEX api
 - View timeseries candlestick grpahs with options for moving averages, volume and RSI data
-- Caches api requests to reduce bandwidth, and includes multithreading for simulationous api requests
+- Caches api requests to reduce bandwidth, and includes multithreading for simultaneous api requests
 - SQLite DB
 
 
