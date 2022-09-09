@@ -10,7 +10,7 @@ Includes:
 
 
 Incomplete:
-- STOCK PREDICTION / PORTFOLIO OPTIMISATION
+- STOCK PREDICTION / PORTFOLIO OPTIMISATION / BALANCE SHEET ANALYSIS
 - Finish unit testing
 - Finish functions for batch api requests
 - Include multi threading for data retrieval 
