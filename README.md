@@ -14,4 +14,3 @@ Incomplete:
 - Finish unit testing
 - Finish functions for batch api requests
 - Include multi threading for data retrieval 
-- Create tkinter GUI  
